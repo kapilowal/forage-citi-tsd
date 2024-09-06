@@ -13,9 +13,9 @@
 ### Task 3: Query data from the web
 - **Description**: Wrote an application that queries the **Dow Jones Industrial Average (DJIA)** stock price from Yahoo Finance every five seconds.
 - **File**: [Task 3/App.java](Task%203/App.java)
-*Note: Connection to Yahoo Finance API is not available, hence the program runs but no output will be displayed.*
+> **Note:** Connection to Yahoo Finance API is not available, hence the program runs but no output will be displayed.*
 
 ### Task 4: Visualize live data
 - **Description**: Updated the existing application to display a line graph that contains recorded stock prices every time the **Dow Jones Industrial Average (DJIA)** is queried from Yahoo Finance.
 - **File**: [Task 4/App.java](Task%204/App.java)
-*Note: Since the connection to Yahoo Finance API is not available, the graph functionality runs without displaying live data.*
+> **Note:** Since the connection to Yahoo Finance API is not available, the graph functionality runs without displaying live data.*
