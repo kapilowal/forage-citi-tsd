@@ -1,4 +1,4 @@
-# Citi Technology Software Development Job Simulation
+# Citi Technology Software Development - Virtual Internship
 
 ## Tasks Overview
 
@@ -19,3 +19,6 @@
 - **Description**: Updated the existing application to display a line graph that contains recorded stock prices every time the **Dow Jones Industrial Average (DJIA)** is queried from Yahoo Finance.
 - **File**: [Task 4/App.java](Task%204/App.java)
 > **Note:** Since the connection to Yahoo Finance API is not available, the graph functionality runs without displaying live data.
+
+## Certificate of Completion
+I've successfully completed the JPMorgan Chase Software Engineering Virtual Internship. You can view my certificate [here](assets/Citi%20-%20Technology%20Software%20Development.pdf).
